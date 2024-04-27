@@ -53,6 +53,18 @@ local icons_by_filename = {
     cterm_color = "227",
     name = "Env",
   },
+  [".env.development"] = {
+    icon = "",
+    color = "#faf743",
+    cterm_color = "227",
+    name = "Env",
+  },
+  [".env.production"] = {
+    icon = "",
+    color = "#faf743",
+    cterm_color = "227",
+    name = "Env",
+  },
   [".eslintrc"] = {
     icon = "",
     color = "#4b32c3",
